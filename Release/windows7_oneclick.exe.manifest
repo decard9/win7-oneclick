@@ -42,26 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="antidll.dll" size="313856">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="antidll.dll" size="298496">
       <assemblyIdentity name="antidll" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>LgWZkaS/15tKJ4gwIxo4U9EgxDo=</dsig:DigestValue>
+        <dsig:DigestValue>UvwHPUDYv4Jcn+Q+DOzNxqrY+yM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="windows7_oneclick.exe" size="10240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="windows7_oneclick.exe" size="10752">
       <assemblyIdentity name="windows7_oneclick" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>SyvGFCOD4FLxykDf6Q5427kqosI=</dsig:DigestValue>
+        <dsig:DigestValue>ZeCJd/LDk2ZOlPqZFkasuhMtDIs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
