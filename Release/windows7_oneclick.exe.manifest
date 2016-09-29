@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="antidll.dll" size="317952">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="antidll.dll" size="294912">
       <assemblyIdentity name="antidll" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>4pHJq+zH1AM2GymtzeAjhSM4x0A=</dsig:DigestValue>
+        <dsig:DigestValue>DuuE3qWqry4l/LTtr27ArPHVvHU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>vIQl2HBGDmy8NUFWx5fT+fB5qfQ=</dsig:DigestValue>
+        <dsig:DigestValue>pkFIIJUKxyqi3++qq2m/0LjAc0Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
